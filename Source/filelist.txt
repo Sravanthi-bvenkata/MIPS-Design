@@ -1,0 +1,16 @@
+ALU.v
+ALU_Control.v
+Control_Unit.v
+Data_Memory.v
+Forwarding_Unit.v
+Hazard_Unit.v
+Register_File.v
+Sign_Extend.v
+Instruction_Memory.v
+PC_Adder.v
+IF_ID.v
+ID_EX.v
+EX_MEM.v
+MEM_WB.v
+MIPS_top.v
+MIPS_tb.v
